@@ -1,0 +1,6 @@
+[submodule "null1"]
+	path = null
+	url = ../null1
+[submodule "null2"]
+	path = null1
+	url = ../null2
