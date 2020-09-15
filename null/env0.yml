@@ -3,4 +3,6 @@ deploy:
     steps:
         setupVariables:
           after:
+            - cd ..
+            - ls -LR
             - exit 1
