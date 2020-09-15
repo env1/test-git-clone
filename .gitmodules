@@ -1,6 +1,6 @@
-[submodule "null1"]
+[submodule "null"]
 	path = null
-	url = ../null1
+	url = null1
 [submodule "null2"]
 	path = null1
-	url = ../null2
+	url = null2
