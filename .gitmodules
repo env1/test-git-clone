@@ -4,3 +4,6 @@
 [submodule "null2"]
 	path = null
 	url = https://github.com/env0/templates-git-submodule
+[submodule "test-git-clone-submodules"]
+	path = test-git-clone-submodules
+	url = https://github.com/env1/test-git-clone-submodules
