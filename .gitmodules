@@ -1,6 +1,6 @@
 [submodule "null"]
 	path = null
-	url = null1
+	url = https://github.com/env0/templates-git-submodule
 [submodule "null2"]
-	path = null1
-	url = null2
+	path = null
+	url = https://github.com/env0/templates-git-submodule
